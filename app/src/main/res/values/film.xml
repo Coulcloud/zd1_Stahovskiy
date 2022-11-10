@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Films" translatable="true">
+        <item>Пункт назначения</item>
+        <item>Один дома</item>
+        <item>50 оттенков серого</item>
+        <item>Война миров Z</item>
+        <item>Поезд в пусан</item>
+    </string-array>
+</resources>

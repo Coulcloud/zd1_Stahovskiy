@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zd1_Stahovskiy</string>
+    <string name="in">Войти</string>
+    <string name="log">Логин:</string>
+    <string name="pass">Пароль:</string>
+    <string name="save">Сохранить</string>
+    <string name="YoutFilm">Посмотрите фильм:</string>
+
+
+
+
+</resources>
